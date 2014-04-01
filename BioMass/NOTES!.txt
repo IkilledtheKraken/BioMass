@@ -1,0 +1,37 @@
+This mod was first made by Roboto. All rights and stuff go to him.
+In Roboto's biomass, you need biomass,o2,co2, nutrients, microflora, food, water, waste, wastewater and and all the parts to support them.
+I wanted something simple and to be able to max time warp without having the system "die".
+I have changed it so you only need 4 parts(not counting power etc.)to have a working sudo life support/fuel generator system.
+
+
+CHANGES:
+Resorce values/outputs have been changed.
+Part mass has been reduced.
+
+The station Hub is now a command pod that has biomass, o2, and co2 and 4 Kerbals.
+The hub consumes electricity, o2 and biomass while produceing co2.
+
+The greenhouse uses electricity and co2 to produce biomass and o2.
+
+The compressor uses electricity and biomass to produce MonoPropellant and co2.
+
+The bioreactor uses electricity,biomass and o2 to produce liquidfuel and oxidizer.
+
+Notes:
+If you use all of the biomass, o2 and co2 the system will die and will not be able to be restarted.
+
+When you go above 1000 warp the system will use up all the biomass, o2 and co2.
+To use the time warp at max speed, turn off the fuel crossfeed for the co2 in the station hub.
+Your Kerbals and a small portion of biomass will go into cryostasis (not realy) and you can revive the biomass with 
+the co2 to start making o2 and "restart" the system. If you dont save the co2 biomass will not grow and you will not be able to make 
+fuel, monoprop or o2.
+
+I have changed the mass and outputs so you can build a ship that uses the 4 parts,2 skippers on 2 orange tanks to put a total 
+ship mass of 90t barely into LKO. You have to start making fuel at the launch pad to have enough to get up there.
+
+- IkilledtheKraken.
+
+
+
+
+
